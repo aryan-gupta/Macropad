@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name Macropad)(type Legacy)(uri ${KIPRJMOD}/Macropad.lib)(options "")(descr ""))
+)
